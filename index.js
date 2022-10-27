@@ -19,4 +19,3 @@ app.get  ('/homepage/:id',(req,res)=>{
 app.listen(port,()=>{
     console.log('server is running ',port);
 })
-module.exports=app;
