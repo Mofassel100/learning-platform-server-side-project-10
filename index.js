@@ -7,10 +7,10 @@ const learningData =require('./data/learningData.json')
 app.get  ('/',(req,res)=>{
     res.send(learningData)
 })
-app.get  ('/homepage',(req,res)=>{
+app.get  ('/course',(req,res)=>{
     res.send(learningData)
 })
-app.get  ('/homepage/:id',(req,res)=>{
+app.get  ('/course/:id',(req,res)=>{
     const id = req.params.id;
     const lend = learningData?.find(L =>L.id===id)
     res.send(lend)
@@ -19,3 +19,4 @@ app.get  ('/homepage/:id',(req,res)=>{
 app.listen(Port,()=>{
     console.log('server is running ',Port);
 })
+module.exports = app;
