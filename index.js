@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 const cors = require('cors');
 app.use(cors());
-const port = process.env.port || 4000;
+const Port = process.env.port || 5000;
 const learningData =require('./data/learningData.json')
 app.get  ('/',(req,res)=>{
     res.send(learningData)
@@ -16,6 +16,6 @@ app.get  ('/homepage/:id',(req,res)=>{
     res.send(lend)
 })
 
-app.listen(port,()=>{
-    console.log('server is running ',port);
+app.listen(Port,()=>{
+    console.log('server is running ',Port);
 })
