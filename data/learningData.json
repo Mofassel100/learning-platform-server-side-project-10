@@ -5,7 +5,7 @@
       "price":3000,
       "auth":"Ariful",
       "time":"six month",
-
+      "details":"The code readability of Python sets it apart as one of the most widely used programming languages in the industry. With Pluralsight, you’ll learn how to build, deploy and scale programs in Python, with training that covers everything from the fundamentals to deep-dive development. Follow each Python course in our learning path to further improve your skillset. And if you're looking to prepare for Python certification, then you've definitely come to the right place, as our expert authors have valuable experience that will help you succeed.",
 
       "title":"PYTHON",
       "picture": "https://images.pexels.com/photos/1181359/pexels-photo-1181359.jpeg?auto=compress&cs=tinysrgb&w=400",
@@ -17,6 +17,8 @@
       "price":4000,
       "auth":"Karim",
       "time":"Four month",
+      "details":"Learn how to develop effective and captivating websites using the latest web development tools and practices. Gain experience developing with HTML, JavaScript, CSS, Python, and more. Our expert authors guide you through development and testing via easy-to-follow web development courses.",
+      "title":"WEB DEVELOPMENT",
       "id": "6358015bb73574e458b6b084",
       "guid": "519aee02-48ff-42f6-adcc-6b7a01097d0d",
       "name":"Grow your web development skills",
@@ -29,9 +31,12 @@
       "price":5000,
       "auth":"Jamal mia",
       "time":"Four month",
+      "details":"Mobile development refers to creating applications and any other kind of software development specific to mobile devices, including tablets and smart watches. Mobile development seeks to optimize functionality and user experience on mobile devices, as there are important differences between mobile and desktop UX. Stay current on all things mobile development, including Swift, Kotlin, and JavaScript. Whether you develop iOS, Android or Windows apps, our courses prepare you to write clean code.",
       "id": "6358015b89d58e1adcb164a4",
       "guid":
       "bffa6062-d072-4c6b-98b1-b7f28df9f0e7",
+      "title":"MOBILE DEVELOPMENT",
+      "name":"Grow your mobile development skills",
 
       "longitude": 25.65746,
       "picture": "https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8ZGV2ZWxvcGVyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
@@ -41,9 +46,11 @@
       "price":2000,
       "auth":"Ali mia",
       "time":"Tree month",
+      "details":"Learn how to code in one of the most in-demand languages of today. Once familiar with JavaScript, you’ll understand how it compiles, optimizes and executes in the browser. Our leading authors will start you off with more fundamental JavaScript tutorials and then guide you through advanced techniques.",
       "id": "6358015b10e48307977840b3",
       "guid": "1906b428-5501-45b5-ba93-e1bae474fbbc",
       "title":"JAVASCRIPT",
+      "name":"Grow your javascript skills",
 
       "longitude": -179.83319,
       "picture": "https://images.unsplash.com/photo-1602992708529-c9fdb12905c9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGRldmVsb3BlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60",
@@ -56,6 +63,8 @@
       "id": "635838bfdf2d19dba64d777e",
       "guid": "1906b428-5501-45b5-ba93-e1bae474fbbc",
       "title":"C++",
+      "details":"Learn C++ from the experts. For over 30 years, C++ has been the programming language for developers in need of imperative, object-oriented and generic programming features in their work. Pluralsight’s comprehensive C++ courses cover the fundamentals of the language to advanced topics.",
+      "name":"Grow your c++ skills",
       "longitude": -179.83319,
       "picture": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGRldmVsb3BlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60",
       "img":"https://images.unsplash.com/photo-1661956600684-97d3a4320e45?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxzZWFyY2h8MTV8fGRldmVsb3BlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60"
@@ -69,6 +78,8 @@
       "id": "635838bfc514022862d4299e",
       "guid": "1906b428-5501-45b5-ba93-e1bae474fbbc",
       "title":"REACT",
+      "details":"Learn React from the pros. Pluralsight offers expert authored React training that will take your software development knowledge to the next level. Learn how to create interactive UIs, develop encapsulated components to pass rich data through your app, and more.",
+      "name":"Grow your react skills",
       "longitude": -179.83319,
       "picture": "https://images.unsplash.com/photo-1536104968055-4d61aa56f46a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fGRldmVsb3BlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60",
       "img":"https://images.unsplash.com/photo-1526925539332-aa3b66e35444?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGRldmVsb3BlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60"
